@@ -1,4 +1,4 @@
-### Olá! Bem-vindo ao meu perfil. 👋
+### Olá! Bem-vindo(a) ao meu perfil. 👋
 
 - 🌱 Estudando Java.
 - 📫 Contato: gabrieltrudes00@hotmail.com
