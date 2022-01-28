@@ -1,7 +1,13 @@
-### Olá! Bem-vindo(a) ao meu perfil. 👋
+### Olá! Bem-vindo(a) ao meu perfil. (PT-BR) 👋
 
 - 🌱 Estudando Java.
 - 📫 Contato: gabrieltrudes00@hotmail.com
+- 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudes-melo-79706b187/
+
+### Hello! Welcome to my profile. (EN-US) 👋
+
+- 🌱 Learning Java.
+- 📫 Contact me: gabrieltrudes00@hotmail.com
 - 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudes-melo-79706b187/
 
 <div align="center">
