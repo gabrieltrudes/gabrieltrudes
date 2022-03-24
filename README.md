@@ -4,12 +4,6 @@
 - 📫 Contato: gabrieltrudes00@hotmail.com
 - 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudes-melo-79706b187/
 
-### Hello! Welcome to my profile. (EN-US) 👋
-
-- 🌱 Learning Java.
-- 📫 Contact me: gabrieltrudes00@hotmail.com
-- 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudes-melo-79706b187/
-
 <div align="center">
   <a href="https://github.com/gabrieltrudes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltrudes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
