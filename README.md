@@ -1,7 +1,7 @@
 ### Olá! Bem-vindo(a) ao meu perfil. (PT-BR) 👋
 
 - 📫 Contato: gabrieltrudes00@hotmail.com
-- 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudes-melo-79706b187/
+- 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudesmelo/
 
 ##
 
