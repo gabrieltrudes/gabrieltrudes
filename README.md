@@ -1,6 +1,5 @@
 ### Olá! Bem-vindo(a) ao meu perfil. (PT-BR) 👋
 
-- 🌱 Estudando Java.
 - 📫 Contato: gabrieltrudes00@hotmail.com
 - 👔 LinkedIn: https://www.linkedin.com/in/gabriel-trudes-melo-79706b187/
 
